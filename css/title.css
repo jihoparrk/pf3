@@ -1,18 +1,7 @@
 #title{
   height: 100%;
-  /*! background-color: #f61e83; */
-  background-image:url(../img/title1.png), linear-gradient(-5.4deg, #fbf2f5 49.8%, #937e64 50%);
-  /*! background-position: center,center; */
-  /*! background-repeat: no-repeat; */
-  /*! background-size:30%,100%; */
-  /*! transition: all 0.7s; */
-  /*! display: flex; */
-  /*! justify-content: center; */
-  /*! text-align: center; */
-  /*! flex-direction: column; */
 }
 #title:hover{
-  background-size:10%,100%;
 }
 #title .wrap{
   height: 100%;
